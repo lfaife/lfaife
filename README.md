@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lfaifedev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lfaife)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/CODEBERG_USERNAME)
-[![Profile Views](https://komarev.com/ghpvc/?username=lfaife&label=Profile%20Views&color=D4A017&style=for-the-badge)](https://github.com/lfaife)
+
 
 </div>
 
@@ -51,7 +51,7 @@ class Leonardo:
 <div align="center">
 <table>
 <tr>
-<td align="center" width="33%"><b>💻 Software Engineering</b><br/>Full-stack features, APIs, and tests that hold up</td>
+<td align="center" width="33%"><b>💻 Software Engineering</b><br/>Full-stack features, APIs, and tests that hold</td>
 <td align="center" width="33%"><b>🧩 Implementation / UAT</b><br/>Making sure software works the way users actually need</td>
 <td align="center" width="33%"><b>🤝 Solutions / Technical Sales</b><br/>Translating technical detail for people who aren't engineers</td>
 </tr>
