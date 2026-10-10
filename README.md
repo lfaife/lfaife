@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:D4A017&height=180&section=header&text=Leonardo%20Faife&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Human-First%20Builder%20%7C%20Team%20Lead&descAlignY=53&descAlign=50" width="100%" alt="Leonardo Faife header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:D4A017&height=180&section=header&text=Leonardo%20Faife&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Human-First%20Builder%20%7C%20Technical%20Project%20Manager&descAlignY=53&descAlign=50" width="100%" alt="Leonardo Faife header"/>
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 class Leonardo:
     studying   = "B.S. Computer Science @ UCF — graduating Dec 2026"
     builds     = ["full-stack web apps", "AI-powered pipelines", "test suites that catch real bugs"]
-    also       = ["project manager", "Hack@UCF infra mentee"]
+    also       = ["Project Manager", "Hack@UCF infra mentee"]
     curious_about = "why systems — and people — behave the way they do"
 
     def fix(self, problem):
@@ -144,9 +144,11 @@ AI is great at reading a lot of code fast. Deciding what the code *should* do is
 ## 🤝 Community
 
 <div align="center">
-
-[![Hack@UCF](https://img.shields.io/badge/Hack%40UCF-Infra_%26_Web_Mentee-000000?style=for-the-badge&logo=hackaday&logoColor=D4A017)](https://www.hackucf.org/)
-
+ 
+[![Hack@UCF](https://img.shields.io/badge/Hack%40UCF-000000?style=for-the-badge&logo=hackaday&logoColor=D4A017)](https://www.hackucf.org/)
+![UCF Entrepreneur Club](https://img.shields.io/badge/UCF_Entrepreneur_Club-1E4D2B?style=for-the-badge)
+[![SHPE](https://img.shields.io/badge/SHPE-0B2341?style=for-the-badge)](https://shpe.org/)
+ 
 </div>
 
 ---
